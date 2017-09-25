@@ -1,0 +1,239 @@
+/*header*/
+
+.header__title {
+  font-family: sans-serif;
+  font-size: 18px;
+  color: white;
+  text-align: right;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.header__navbar-login-link {
+  color: #9f9f9f;
+}
+
+.header__navbar-login-link:hover {
+  color: #113463;
+}
+
+.header__navbar__item-link {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #127BB1;
+  font-weight: bold;
+}
+
+.header__navbar__item-link:hover {
+  color: #113463;
+}
+
+.header__navbar-login-text {
+  font-family: sans-serif;
+  font-size: 13px;
+}
+
+/*container__content*/
+
+.container__content__root-links {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.container__content__root-link {
+  color: #127BB1;
+}
+
+.container__content__root-link:hover {
+  color: #113463;
+}
+
+.container__content__root-link1 {
+  color: black;
+}
+
+.container__content__root__path-link:hover {
+  color: #113463;
+}
+
+.container__contetn__post__header {
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.container__contetn__post__info {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.container__contetn__post__info__author {
+  color: #127BB1;
+}
+
+.container__contetn__post__info__name:hover {
+  color: #113463;
+}
+
+.container__contetn__post__info__date {
+  color: #AAAAAA;
+}
+
+.container__contetn__post__data__text {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.container__button-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+.container__contetn__post__data__readmore-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #127BB1;
+}
+
+.container__contetn__post__data__author-link:hover {
+  color: #113463;
+}
+
+.container__tags__tag-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+/*container__publications*/
+
+.container__publications {
+  font-weight: bold;
+  color: #127BB1;
+}
+
+.container__publications__header__text-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #127BB1;
+  font-weight: bold;
+}
+
+.container__publications__header__text-link:hover {
+  color: #113463;
+}
+
+.container__publications__content__post__name {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.container__publications__content__post__date {
+  font-family: sans-serif;
+  font-size: 11px;
+  color: #AAAAAA;
+}
+
+.container__publications__communicate__h3-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #127BB1;
+  font-weight: bold;
+}
+
+.container__publications__communicate__h3-link:hover {
+  color: #113463;
+}
+
+.container__publications__communicate__data__text-link{
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
+
+.container__publications__communicate__data__text-link:hover {
+  color: #113463;
+}
+
+.container__publications__content__post__name-link {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #127BB1;
+  text-transform: uppercase;
+}
+
+.container__publications__content__post__name-link:hover {
+
+}
+
+.container__publications__communicate__data__readmore-link {
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #127BB1;
+}
+
+.container__publications__communicate__data__readmore-link:hover {
+  color: #113463;
+}
+
+/*comments*/
+
+.comments__header__h3 {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.comments__header__h3-link {
+  color: #127BB1;
+}
+
+.comments__header__h3-link:hover {
+  color: #113463;
+}
+
+.comments__comment__data__username {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #127BB1;
+  font-weight: bold;
+}
+
+.comments__comment__data__time{
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #AAAAAA;
+  font-weight: normal;
+}
+
+.comments__comment__data__answer {
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #AAAAAA;
+}
+
+.comments__comment__data__text {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+/*footer*/
+
+.footer__navigation__item-link {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #127BB1;
+  font-weight: bold;
+}
+
+.footer__navigation__item-link:hover {
+  color: #113463;
+}
+
+.footer__text {
+  font-family: sans-serif;
+  font-size: 10px;
+  color: #AAAAAA;
+}

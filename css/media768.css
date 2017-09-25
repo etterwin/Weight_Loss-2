@@ -1,0 +1,159 @@
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+  body{
+    width: 768px;
+  }
+
+  .header__menu {
+    display: none;
+  }
+
+  /* header */
+
+  .header {
+    width: 748px;
+    padding-bottom: 5px;
+  }
+
+  .header__navbar {
+    margin-left: 50px;
+  }
+
+  .header__navbar__item {
+    width: 600px;
+    margin-right: 10px;
+  }
+
+  .header__search {
+    width: 350px;
+  }
+
+  .header__navbar-login-img {
+    margin-left: 140px;
+  }
+
+  .social-links {
+    width: 25px;
+    height: 25px;
+    margin-top: -2px;
+  }
+
+  /*container*/
+
+  .container {
+    width: 768px;
+  }
+
+  /*container__content*/
+
+  .container__content {
+    width: 450px;
+    margin: 15px 30px 0px -80px;
+  }
+
+  .container__contetn__post__data-img {
+    width: 450px;
+  }
+
+  .container__contetn__post__data__text {
+    padding: 0px 20px;
+  }
+
+  .container__contetn__post__data-goods {
+    width: 200px;
+    margin: 20px 5px 5px 0px;
+  }
+
+  .social-links {
+    width: 20px;
+    height: 20px;
+  }
+
+  .container__button {
+    display: table;
+    margin-left: 30px;
+    width: 400px;
+  }
+
+  .container__button-fb{
+    padding: 5px 10px;
+    margin: 0px 0px 0px 75px;
+    width: 147px;
+  }
+
+  .container__button-tw{
+    padding: 5px 10px;
+    margin: 10px 0px 10px 82px;
+    width: 130px;
+  }
+
+  .container__button-email {
+    padding: 5px 10px;
+    margin: 0px 0px 0px 85px;
+    width: 120px;
+  }
+
+  .container__contetn__post__data__readmore {
+    padding: 0px 20px;
+  }
+
+  .container__tags {
+    padding: 0px 20px;
+  }
+
+
+  /*container__publications*/
+
+  .container__publications {
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .container__publications__communicate__data {
+    height: 275px
+  }
+
+  .container__publications__communicate__data__readmore {
+    padding: 10px 62px;
+  }
+
+  /*comments*/
+
+  .comments {
+    margin-left: 8px;
+    width: 748px;
+    margin-top: 420px;
+  }
+
+  .comments__comment {
+    width: 728px;
+  }
+
+  .fix-like768 {
+    margin-top: -10px;
+  }
+
+  /*footer*/
+
+  .footer {
+    width: 748px;
+    margin-left: 10px;
+
+  }
+
+  .footer__navigation__item {
+    margin-right: 10px;
+    padding: 0px;
+  }
+
+  /*fonts*/
+
+  .header__navbar__item-link {
+    font-size: 12px;
+  }
+
+  .footer__navigation__item-link {
+    font-size: 13px;
+  }
+}
